@@ -1,2 +1,2 @@
 # SamplingTheory
-interactive Python demonstration for sampling theory
+Interactive Python demonstration for sampling theory
